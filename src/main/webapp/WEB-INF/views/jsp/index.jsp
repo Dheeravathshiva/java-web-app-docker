@@ -40,15 +40,15 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Mithun Technologies Private Limited, Bengaluru, Inida ,Karnataka.</h2>
-			<h3>Contact @ +91-9980923226,,+91-9900012028</h3>
+			<h2>Welcome To Shiva Technologies Private Limited, Hyderabad.</h2>
+			<h3>Contact @ +91-7893371646</h3>
 		</div>	
 	</div>
 
 
 	<hr>
 	<footer>
-		<p>&copy; Mithun Technologies 2024</p>
+		<p>&copy; Shiva Technologies 2024</p>
 	</footer>
 </div>
 
