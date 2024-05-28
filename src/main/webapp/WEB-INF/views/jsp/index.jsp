@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Shiva Technologies Private Limited, Hyderabad.</h2>
+			<h2>Welcome To Shiva Technologies Hyderabad.</h2>
 			<h3>Contact @ +91-7893371646</h3>
 		</div>	
 	</div>
